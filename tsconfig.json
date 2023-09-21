@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "types": [
+      "@yodaos-jsar/types"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
