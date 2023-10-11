@@ -1,6 +1,6 @@
 {
   "name": "your-jsar-widget-name",
-  "displayName": "JSAR Display Name",
+  "displayName": "Display Name",
   "version": "1.0.0",
   "description": "The template widget",
   "main": "main.xsml",
@@ -17,6 +17,6 @@
   "author": "Yorkie Liu <yorkiefixer@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@yodaos-jsar/types": "^1.4.0"
+    "@yodaos-jsar/types": "^0.1.4"
   }
 }
